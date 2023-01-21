@@ -1,0 +1,45 @@
+h1{
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+
+}
+
+.name-highlight{
+    color: orange;
+}
+
+.introduction{
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.description{
+    font-size: 16px;
+    color: grey;
+    font-family: 'Poppins', sans-serif;
+
+
+}
+
+.button{
+    color: white;
+    background-color: orange;
+    border: none;
+    padding: 10px 20px;
+    font-family: 'Poppins', sans-serif;
+    
+
+
+
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+}
+
+.half-width img{
+    width: 100%;
+}
